@@ -20,7 +20,7 @@ Anime Web é um projeto desenvolvido para faculdade, criado para exibir uma amos
 
 ## Como Usar 🔧
 
-1. Acesse https://webanimes.netlify.app/ 🌍
+1. Acesse https://animeswebb.netlify.app/ 🌍
 2. Explore os animes da temporada e veja a interface projetada. 🍿
 
 **Importante**: Este é um projeto sem funcionalidades completas, criado apenas como demonstração para uma atividade acadêmica.
